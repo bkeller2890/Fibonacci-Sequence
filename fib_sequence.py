@@ -10,4 +10,4 @@ def fib_sequence(x)
     return fib_sequence(x-1)+fib_sequence(x-2) 
 
 for i in range(number): 
-  print(fib_sequence(i)
+  print(fib_sequence(i))
